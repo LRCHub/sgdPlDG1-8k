@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "あの娘シークレット - Eve MV",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-20T15:48:51.772515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの娘シークレット",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_あの娘シークレット_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの娘シークレット",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_あの娘シークレット_Eve.txt"
+    }
+  ]
+}
